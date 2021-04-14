@@ -48,3 +48,210 @@ table {
 	border-spacing: 0;
 }
 /* End of Reset */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+
+  body {
+    font-family: "Arial", "Arial bold", "Arial Black";
+  }
+  
+.title{
+    
+    height: 70px;
+    width: 100%;
+    background-color: #454f6f;
+    position: relative;
+
+    
+}
+.title h1 {
+     display: inline-block;
+    color: white;
+    padding-top: 20px;
+    margin: 20px;
+
+}
+
+
+
+.title nav {
+   
+    float: right;
+    padding-top: 20px;
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+
+}
+
+.title nav a {
+  
+    text-decoration: none;
+    color: white;
+    
+}
+
+.banner {
+    color: white;
+    border: 30px;
+    padding: 50px;
+    text-align: center;
+    background-color: #e6834c;
+    
+    
+}
+
+.banner h1 {
+  
+    font-size: 30px;
+    padding: 20px;
+    font: Arial bold;
+    font-weight: bold;
+}
+
+.banner h2 {
+    
+    font-size: 25px;
+    padding: 20px;
+
+}
+
+.about{
+    background-color: rgb(242, 248, 248);
+    color: black;
+    border: 30px;
+    padding: 50px;
+    margin: 20px 30px;
+    text-align: center;
+}
+
+.about h2{
+   
+    font-weight: bold;
+    padding: 20px;
+    
+}
+
+.about p {
+  
+    padding: 20px;
+    text-align: center;
+    line-height: 1.5;
+
+}
+
+/* first content */
+
+.content {
+   
+    width: 50%;
+    margin: 20px 30px 20px 30px;
+    border: 340px;
+    display: table-cell;
+   
+
+}
+
+.innercontent {
+   
+    width: 100%;
+    margin: 20px 30px;
+    border: 20px;
+    padding: 30px;
+    justify-content: center;
+   
+}
+
+.innercontent h2{
+  
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.innercontent p {
+  
+    padding: 20px;
+    text-align: center;
+    line-height: 1.5;
+   
+
+}
+
+/* second content */
+.content-contact{
+   
+    width: 50%;
+    margin: 20px 30px;
+    border: 40px;
+    padding: 10px;
+    display: table-cell;
+    
+}
+
+.morecontent{
+    width: 100%;
+    margin: 20px 30px;
+    border: 20px;
+    padding: 30px;
+    justify-content: center;
+      
+}
+
+.morecontent h2 {
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.morecontent p {
+    padding: 20px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+
+.footer {
+    height: 70px;
+    width: 100%;
+    background-color: #454f6f;
+    position: relative;
+}
+
+.footer h1 {
+display: inline-block;
+color: white;
+padding-top: 20px;
+margin: 20px;
+
+    
+}
+*/
+.footer nav {
+    display: inline-block;
+    float: right;
+    padding-top: 20px;
+    color: white;
+    margin: 20px;
+
+
+}
+
+.footer nav a{
+    text-decoration: none;
+    color: white;
+   
+}
+
+.copyright {
+    color: black;
+    width: 100%;
+    border: ;
+    padding: 10px;
+    text-align: center;
+    background-color: #e6834c;
+}
