@@ -59,6 +59,7 @@ table {
     font-family: "Arial", "Arial bold", "Arial Black";
   }
   
+  /* nav bar */
 .title{
     
     height: 70px;
@@ -94,7 +95,7 @@ table {
     color: white;
     
 }
-
+/* Banner */
 .banner {
     color: white;
     border: 30px;
@@ -119,6 +120,7 @@ table {
     padding: 20px;
 
 }
+/* about us */
 
 .about{
     background-color: rgb(242, 248, 248);
@@ -214,6 +216,7 @@ table {
     line-height: 1.5;
 }
 
+/* footer */
 
 .footer {
     height: 70px;
@@ -230,7 +233,7 @@ margin: 20px;
 
     
 }
-*/
+
 .footer nav {
     display: inline-block;
     float: right;
@@ -246,7 +249,7 @@ margin: 20px;
     color: white;
    
 }
-
+/* copyright */
 .copyright {
     color: black;
     width: 100%;
