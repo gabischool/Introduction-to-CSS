@@ -1,1 +1,43 @@
 /* Your CSS goes here */
+.p1{
+
+    color: none;
+    text-align: center;
+  background-color: cadetblue;
+}
+.p2{
+
+    color: none;
+    text-align: left;
+}
+.p3{
+
+    color: none;
+    text-align: left;
+}
+.p4{
+
+    color: none;
+    text-align:none;
+}
+.p5{
+    color: none;
+    text-align:none;
+}
+h3{
+    color: white;
+    background-color: #454f6f;
+    text-align: left;
+    justify-content: space-between;
+}
+h4{
+    color: black;
+    background-color: coral;
+    text-align: center;
+    font-size: small;
+}
+#para1 {
+    text-align: center;
+    color: red;
+  }
+ 

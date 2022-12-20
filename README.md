@@ -7,7 +7,7 @@ In this project you will be styling a single page with your knowledge of CSS. Th
 The styles in your [design file](/design/desktop.jpg) try your best to make it look great, add bright colors, add proper paddings and margins.
 
 ## Instructions
-
+## WAAN ISKU DAYAY MACALIN !
 ### Task 1: Set up your git flow
 
 Follow these steps to set up your project and start working on it:
