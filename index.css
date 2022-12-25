@@ -1,1 +1,166 @@
 /* Your CSS goes here */
+
+.first-h1{
+    background-color:#454f6f;
+    color: white;
+    padding-top: 20px;
+    padding-bottom:20px;
+    padding-left: 35px;
+    margin-top: -8px;
+    margin-left:-8px;
+    margin-right:-8px;
+    font-family: Arial;
+
+}
+nav{
+    text-align: right;
+    margin-right: 40px;
+    margin-top: -70px;
+    margin-bottom: 40px; 
+}
+nav a{
+    color: white;
+    margin-right: 15px;
+    font-family: Arial;
+    
+}
+h2{
+    background-color:#e6834c;   
+    padding-top: 30px;
+    padding-bottom: 120px;
+    margin-top: -10px;
+    margin-left: -9px;
+    margin-right: -9px;
+    padding-left: 20px;
+    color: white;
+    text-align: center;
+    font-family: Arial Black;
+}
+.first-p{
+    margin-top: -100px;
+    margin-bottom: 40px;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: Arial;
+}
+.second-h1{
+    text-align: center;
+    font-family: Arial;
+    margin: 70px;
+    background-color:rgb(212, 226, 212) ;
+    padding-top: 30px;
+    padding-bottom: 200px;
+
+}
+.second-p{
+    text-align: center ;
+    font-family: Arial;
+    font-size: 15px;
+    margin: 300px;
+    margin-top: -230px;
+    line-height: 1.8;
+    
+}
+.the-one{
+    font-family: Arial;
+    margin: 200px;
+    margin-top: -220px;
+    margin-left: 180px;
+    
+}
+.third-p{
+    font-family: Arial;
+    margin: 100px;
+    margin-top: -180px;
+    line-height: 1.8;
+    font-size: 15px;
+    margin-right: 1100px;
+    
+
+}
+.first-h3{
+    margin: 300px;
+    text-align: right;
+    margin-top: -300px;
+    font-family: Arial;
+    margin-right: 250px;
+
+}
+.fourth-p{
+    font-family: Arial;
+    margin: 100px;
+    margin-left: 1100px;
+    margin-top: -280px;
+    line-height: 1.8;
+    font-size: 15px;
+
+}
+.second-h3{
+    font-family: Arial;
+    margin: 200px;
+    margin-top: -70px;
+    margin-left: 180px;
+}
+.fifth-p{
+    font-family: Arial;
+    margin: 100px;
+    margin-top: -180px;
+    line-height: 1.8;
+    font-size: 15px;
+    margin-right: 1100px;
+
+}
+.third-h3{
+    margin: 300px;
+    text-align: right;
+    margin-top: -300px;
+    font-family: Arial;
+    margin-right: 330px;
+}
+.sixth-p{
+    font-family: Arial;
+    margin: 300px;
+    margin-left: 1140px;
+    margin-top: -280px;
+    line-height: 1.9;
+    font-size: 15px;
+}
+footer{
+    background-color:#454f6f;
+    color: white;
+    padding-top: 20px;
+    padding-bottom:20px;
+    padding-left: 35px;
+    margin-top: -200px;
+    margin-left:-8px;
+    margin-right:-10px;
+    margin-bottom: 300px;
+    text-align: right;
+    padding-top:-50px;
+}
+.fourth-h3{
+text-align: left;
+font-family: Arial;
+}
+.anchor{
+    text-align: right;
+    margin-right: 30px;
+    margin-top: -40px;
+    margin-bottom: 40px; 
+ 
+}
+ footer  a{
+    color: white;
+    margin-right: 15px;
+    font-family: Arial;
+}
+h4{
+    text-align: center;
+    background-color:#e6834c;
+    margin-top:-300px;
+    margin-bottom: -10px;
+    margin-left: -8px;
+    margin-right: -8px;
+    font-weight: 200;
+}
