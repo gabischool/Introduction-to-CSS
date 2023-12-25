@@ -1,1 +1,43 @@
 /* Your CSS goes here */
+header, footer {
+    background-color: #454f6f;
+    color: #CCC;
+    font-style: inherit;
+    font-family: Arial, Arial bold, Arial Black;
+    content: normal;
+    padding: 1px;
+    margin: 3px;
+    border: 4px;
+}
+
+nav {
+    background-color: aquamarine;
+    color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+
+nav ul li {
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    display: inline;
+    margin-left: 5px;
+}
+
+nav ul li {
+    display: inline;
+    padding: 0;
+    
+}
+
+nav ul li a {
+    margin-left: 15px;
+    padding-left: 15px;
+    text-decoration: none;
+
+}
